@@ -1,0 +1,11 @@
+{
+  "name": "react-complete-guide-code-02-js-refresher",
+  "version": "1.0.0",
+  "description": "This repository contains the course source code and other extra materials like slides.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

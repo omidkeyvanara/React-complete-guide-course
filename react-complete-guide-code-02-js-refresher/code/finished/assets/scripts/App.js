@@ -16,6 +16,9 @@ console.log(newNames);
 
 
 
-const finder = function (x) {
-    return 
-} 
+function handleTimeout() {
+    console.log(`time out!`);
+    
+}
+
+setTimeout(handleTimeout(),4000)
